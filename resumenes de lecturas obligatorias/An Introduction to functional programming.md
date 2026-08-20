@@ -36,7 +36,7 @@ Priorizar recursividad por sobre iteración
 ### Usar pipelines
 El trabajo de un pipeline es recibir una colección de elementos y una colección de funciones. Pasa cada elemento de la colección por la primer función y agrupa los resultados en una nueva colección de elementos. Después los pasa por la segunda función, y así hasta que termine.  
 
-### Y para qué lo uso, negro?
+### ¿Y para qué lo uso?
 Convive muy bien con código de otros paradigmas y lenguajes.  
 
 ## Conclusión
